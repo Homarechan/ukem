@@ -3,3 +3,10 @@ __pycache__/
 
 # Compiled C extentions
 *.so
+
+*.egg-info/
+
+build/
+dist/
+target/
+Cargo.lock
