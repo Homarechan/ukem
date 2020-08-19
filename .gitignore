@@ -1,0 +1,5 @@
+# Caches
+__pycache__/
+
+# Compiled C extentions
+*.so
